@@ -23,7 +23,7 @@ This sample illustrates basic SDK functionality where it:
 
 ## Summary
 
-This sample application illustrates using the MIP File SDK to list labels, apply a label, then read the label. All SDK actions are implemented in **action.cs**. 
+This sample application illustrates using the MIP File SDK to list labels, apply a label, then read the label in .NET. All SDK actions are implemented in **action.cs**. 
 
 ## Getting Started
 
